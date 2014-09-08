@@ -1,4 +1,6 @@
 hello-world
 ===========
+HAi all,
 
-just another repository
+Hubot here.I like Node,js and coffescript.
+I have had tacos on the moon
